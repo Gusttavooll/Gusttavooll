@@ -51,5 +51,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Gustavo%20Alves%20Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-alves-dev)](https://www.linkedin.com/in/gustavo-alves-dev)
-[![Gmail Badge](https://img.shields.io/badge/-Gustavoalves9a@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gustavoalves9a@gmail.com)](mailto:Gustavoalves9a@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gustavoalves9a@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gustavoalves9a@gmail.com)](mailto:gustavoalvesoficial.contato@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Gusttavooll?label=follow&style=social)](https://github.com/Gusttavooll)
