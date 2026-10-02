@@ -1,46 +1,80 @@
 ![](https://komarev.com/ghpvc/?username=Gusttavooll&color=006bed)
 
+# Gustavo Alves de Lima
+
+**Segurança Cibernética · Red Team & Blue Team · Desenvolvedor Fullstack**
+
 ## Sobre mim
 
-- 👋 Olá! Sou um(a) desenvolvedor(a) apaixonado(a) por transformar ideias em soluções web.
-- 🤔 Sempre em busca de novos desafios e tecnologias para aprender e aplicar.
-- 🌱 Estou dedicando meu tempo a aprender mais sobre arquitetura de microsserviços e linguagens funcionais.
-- 🚀 Meus principais interesses incluem desenvolvimento web, sistemas Back-And e Frond-End.
+- 👋 Sou desenvolvedor fullstack em transição para Segurança Cibernética.
+- 🛡️ Busco atuar tanto em Red Team (pentest web e APIs) quanto em Blue Team (análise de logs, monitoramento e resposta a incidentes).
+- 🔁 Minha visão é completa: de quem constrói, de quem ataca e de quem defende. Já desenvolvi sistemas Back-End e Front-End, e hoje uso esse conhecimento para encontrar e corrigir falhas.
+- 🎓 Cursando Segurança Cibernética na FIAP e formado como Fullstack Web Developer (720h) pela Programadores do Amanhã (2025).
 
-## Minhas Skills
+## Segurança
+
+**Red Team**
+
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burpsuite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
+
+**Blue Team**
+
+![Análise de logs](https://img.shields.io/badge/-An%C3%A1lise%20de%20logs-333333?style=flat)
+![Threat Intelligence](https://img.shields.io/badge/-Threat%20Intelligence-333333?style=flat)
+![Perícia Forense Digital](https://img.shields.io/badge/-Per%C3%ADcia%20Forense%20Digital-333333?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
+**Estudando** _(em aprendizado, ainda sem uso em projeto real)_
+
+![ffuf](https://img.shields.io/badge/-ffuf-333333?style=flat)
+![Gobuster](https://img.shields.io/badge/-Gobuster-333333?style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit)
+![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat)
+
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-333333?style=flat&logo=tryhackme)](https://tryhackme.com/p/Gusttavooll)
+
+## Desenvolvimento
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
+**Ferramentas e DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-**Ferramentas de desenvolvimento**
-
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
+## Projetos em destaque
+
+**🔴 Pentest em ambiente de homologação real** · Challenge FIAP, equipe de 5 _(confidencial, sem repositório público)_
+
+- Ferramentas: Burp Suite, Nmap e scripts em Python, seguindo OWASP, NIST e MITRE ATT&CK.
+- Validei 6 vulnerabilidades, entre elas HTTP Request Smuggling (CL.TE), Auth Bypass por componente desatualizado, exposição de `/metrics/` e Information Disclosure via stack trace.
+- Classifiquei o risco de cada uma e escrevi o relatório com PoCs e plano de mitigação.
+
+**🛡️ [API da Plataforma de Pessoas Desaparecidas](https://github.com/Gusttavooll/Pessoas_Desaparecidas_Final)**
+
+- API RESTful em Node.js, Express, MySQL e Prisma, com Docker, testes em Jest e documentação Swagger.
+- Camada de segurança: autenticação com JWT, controle de acesso às rotas e validação de entrada.
 
 <br/>
 
